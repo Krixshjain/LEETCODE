@@ -15,12 +15,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Krixshjain/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [1901-find-a-peak-element-ii](https://github.com/Krixshjain/LEETCODE/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Krixshjain/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [1901-find-a-peak-element-ii](https://github.com/Krixshjain/LEETCODE/tree/master/1901-find-a-peak-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Krixshjain/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+## Matrix
+|  |
+| ------- |
+| [1901-find-a-peak-element-ii](https://github.com/Krixshjain/LEETCODE/tree/master/1901-find-a-peak-element-ii) |
 <!---LeetCode Topics End-->

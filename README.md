@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Krixshjain/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0078-subsets](https://github.com/Krixshjain/LEETCODE/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Krixshjain/LEETCODE/tree/master/0090-subsets-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/Krixshjain/LEETCODE/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Search
 |  |
@@ -34,8 +35,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Krixshjain/LEETCODE/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Krixshjain/LEETCODE/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Krixshjain/LEETCODE/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Krixshjain/LEETCODE/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->

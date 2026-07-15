@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Krixshjain/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0037-sudoku-solver](https://github.com/Krixshjain/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Krixshjain/LEETCODE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Krixshjain/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Krixshjain/LEETCODE/tree/master/0046-permutations) |
@@ -34,10 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Krixshjain/LEETCODE/tree/master/0037-sudoku-solver) |
 | [1901-find-a-peak-element-ii](https://github.com/Krixshjain/LEETCODE/tree/master/1901-find-a-peak-element-ii) |
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Krixshjain/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Krixshjain/LEETCODE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Krixshjain/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Krixshjain/LEETCODE/tree/master/0046-permutations) |
@@ -58,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Krixshjain/LEETCODE/tree/master/0131-palindrome-partitioning) |
+## Hash Table
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Krixshjain/LEETCODE/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->

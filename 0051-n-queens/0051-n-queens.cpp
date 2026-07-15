@@ -10,7 +10,7 @@ public:
 
         for(int row=0 ; row<n ; row++){
             if(leftrow[row]==0 && upperdiagonal[row+col]==0 && lowerdiagonal[n-1+col-row]==0){
-
+//lower and upper are opposite here
                 board[row][col]='Q';
                 leftrow[row]=1;
                 upperdiagonal[row+col]=1;

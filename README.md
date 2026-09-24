@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Krixshjain/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Krixshjain/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Krixshjain/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Krixshjain/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -289,4 +290,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Krixshjain/LEETCODE/tree/master/0785-is-graph-bipartite) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Krixshjain/LEETCODE/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Krixshjain/LEETCODE/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

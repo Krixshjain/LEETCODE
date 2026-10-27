@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Krixshjain/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Krixshjain/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0392-is-subsequence](https://github.com/Krixshjain/LEETCODE/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krixshjain/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Array
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Krixshjain/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/Krixshjain/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Krixshjain/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0392-is-subsequence](https://github.com/Krixshjain/LEETCODE/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Krixshjain/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Krixshjain/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Krixshjain/LEETCODE/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/Krixshjain/LEETCODE/tree/master/0392-is-subsequence) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Krixshjain/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Hash Table
 |  |

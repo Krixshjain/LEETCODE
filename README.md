@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Krixshjain/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Krixshjain/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Krixshjain/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Krixshjain/LEETCODE/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Krixshjain/LEETCODE/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Krixshjain/LEETCODE/tree/master/0200-number-of-islands) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Krixshjain/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Krixshjain/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Krixshjain/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Krixshjain/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Krixshjain/LEETCODE/tree/master/0169-majority-element) |
 ## Matrix
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Krixshjain/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Krixshjain/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/Krixshjain/LEETCODE/tree/master/0133-clone-graph) |
+| [0169-majority-element](https://github.com/Krixshjain/LEETCODE/tree/master/0169-majority-element) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krixshjain/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Krixshjain/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Stack
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Krixshjain/LEETCODE/tree/master/0169-majority-element) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Krixshjain/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Lifting
 |  |
@@ -300,4 +304,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Krixshjain/LEETCODE/tree/master/0070-climbing-stairs) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Krixshjain/LEETCODE/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Krixshjain/LEETCODE/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

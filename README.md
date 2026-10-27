@@ -13,12 +13,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Krixshjain/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Krixshjain/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krixshjain/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Krixshjain/LEETCODE/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Krixshjain/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Krixshjain/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Krixshjain/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Krixshjain/LEETCODE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Krixshjain/LEETCODE/tree/master/0040-combination-sum-ii) |

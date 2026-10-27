@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Krixshjain/LEETCODE/tree/master/0131-palindrome-partitioning) |
+| [0205-isomorphic-strings](https://github.com/Krixshjain/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Krixshjain/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Dynamic Programming
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Krixshjain/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Krixshjain/LEETCODE/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/Krixshjain/LEETCODE/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Krixshjain/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krixshjain/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Krixshjain/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Stack

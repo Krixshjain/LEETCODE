@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Krixshjain/LEETCODE/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Krixshjain/LEETCODE/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Krixshjain/LEETCODE/tree/master/0200-number-of-islands) |
+| [0228-summary-ranges](https://github.com/Krixshjain/LEETCODE/tree/master/0228-summary-ranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Krixshjain/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1901-find-a-peak-element-ii](https://github.com/Krixshjain/LEETCODE/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Search
